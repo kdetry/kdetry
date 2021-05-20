@@ -6,4 +6,4 @@ working on something nice
 ------------------
 Realtime chart:
 
-[Bitcoin Chart with using Binance Websocket, Rest API and TradingView Chart](https://relaxed-hermann-a8bd85.netlify.app/)
+[Bitcoin Chart by using Binance Websocket, Rest API and TradingView Chart](https://relaxed-hermann-a8bd85.netlify.app/)
